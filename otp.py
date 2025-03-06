@@ -4,8 +4,8 @@ from twilio.rest import Client
 import random
 
 # Twilio Credentials
-TWILIO_SID = ""
-TWILIO_AUTH_TOKEN = ""
+TWILIO_SID = "ACa69ccec0ce83d59b0ebad27f15e63481"
+TWILIO_AUTH_TOKEN = "92b96d5c931a745fe6ec367d62e7d204"
 TWILIO_PHONE = "SWIFTPLAY"
 
 # Initialize Twilio Client
